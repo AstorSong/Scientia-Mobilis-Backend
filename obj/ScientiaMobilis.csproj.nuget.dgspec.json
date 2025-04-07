@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/claudiussongnius/Documents/C#/ScientiaMobilis/ScientiaMobilis.csproj": {}
+    "C:\\Users\\sammw\\source\\repos\\Scientia-Mobilis-Backend\\ScientiaMobilis.csproj": {}
   },
   "projects": {
-    "/Users/claudiussongnius/Documents/C#/ScientiaMobilis/ScientiaMobilis.csproj": {
+    "C:\\Users\\sammw\\source\\repos\\Scientia-Mobilis-Backend\\ScientiaMobilis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/claudiussongnius/Documents/C#/ScientiaMobilis/ScientiaMobilis.csproj",
+        "projectUniqueName": "C:\\Users\\sammw\\source\\repos\\Scientia-Mobilis-Backend\\ScientiaMobilis.csproj",
         "projectName": "ScientiaMobilis",
-        "projectPath": "/Users/claudiussongnius/Documents/C#/ScientiaMobilis/ScientiaMobilis.csproj",
-        "packagesPath": "/Users/claudiussongnius/.nuget/packages/",
-        "outputPath": "/Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/",
+        "projectPath": "C:\\Users\\sammw\\source\\repos\\Scientia-Mobilis-Backend\\ScientiaMobilis.csproj",
+        "packagesPath": "C:\\Users\\sammw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sammw\\source\\repos\\Scientia-Mobilis-Backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/claudiussongnius/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\sammw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,13 +43,27 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.8.8, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
