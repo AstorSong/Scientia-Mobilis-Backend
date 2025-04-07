@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScientiaMobilis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af10109df48bb7d979d5ac894c10a68cbc0a3f09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693f800a8c301ae8a39a120046a806a2f0d75172")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScientiaMobilis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScientiaMobilis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
