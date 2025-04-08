@@ -98,3 +98,17 @@
 /Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/Debug/net9.0/ScientiaMobilis.pdb
 /Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/Debug/net9.0/ScientiaMobilis.genruntimeconfig.cache
 /Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/Debug/net9.0/ref/ScientiaMobilis.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/scientiamobilis-firebase-adminsdk-fbsvc-960af04016.json
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/FirebaseAdmin.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Google.Api.Gax.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Google.Api.Gax.Rest.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Google.Apis.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Google.Apis.Auth.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Google.Apis.Core.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/System.CodeDom.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/System.Management.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/bin/Debug/net9.0/runtimes/win/lib/net7.0/System.Management.dll
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/Debug/net9.0/ScientiaMobilis.csproj.AssemblyReference.cache
+/Users/claudiussongnius/Documents/C#/ScientiaMobilis/obj/Debug/net9.0/Scientia.E213B5AE.Up2Date

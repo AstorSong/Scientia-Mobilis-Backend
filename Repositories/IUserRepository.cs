@@ -1,8 +1,11 @@
 using System.Threading.Tasks;
 using ScientiaMobilis.Models;
 
-public interface IUserRepository
+namespace ScientiaMobilis.Repositories
 {
-    Task<User> GetUserByEmailAsync(string email);
-    Task<User> CreateUserAsync(User user);
+    public interface IUserRepository
+    {
+        Task<User> GetUserByEmailAsync(string email);
+        Task<User> CreateUserAsync(User user);
+    }
 }

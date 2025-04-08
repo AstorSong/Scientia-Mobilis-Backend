@@ -1,8 +1,20 @@
+using ScientiaMobilis.Repositories;
+using ScientiaMobilis.Services;
+using FirebaseAdmin;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-builder.Services.AddControllersWithViews();
+FirebaseApp.Create(new AppOptions
+{
+    Credential = Google.Apis.Auth.OAuth2.GoogleCredential
+    .FromFile("scientiamobilis-firebase-adminsdk-fbsvc-960af04016.json")
+});
 
+// Add services to the container.
+builder.Services.AddScoped<IUserRepository, FirebaseUserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
+builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
