@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ScientiaMobilis.Backend.props" />
-</Project>
