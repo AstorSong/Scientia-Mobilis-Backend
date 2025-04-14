@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj": {}
+    "D:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj": {}
   },
   "projects": {
-    "d:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj": {
+    "D:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj",
+        "projectUniqueName": "D:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj",
         "projectName": "ScientiaMobilis.Backend",
-        "projectPath": "d:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj",
+        "projectPath": "D:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\ScientiaMobilis.Backend.csproj",
         "packagesPath": "C:\\Users\\Wu Tony\\.nuget\\packages\\",
-        "outputPath": "d:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\obj\\",
+        "outputPath": "D:\\2025.01~2025.04\\SYST30025 Software Engineering\\ScientiaMobilis.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

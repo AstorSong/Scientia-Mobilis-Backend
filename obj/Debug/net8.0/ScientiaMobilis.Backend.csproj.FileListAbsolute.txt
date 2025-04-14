@@ -156,3 +156,4 @@ D:\2025.01~2025.04\SYST30025 Software Engineering\ScientiaMobilis.Backend\obj\De
 D:\2025.01~2025.04\SYST30025 Software Engineering\ScientiaMobilis.Backend\obj\Debug\net8.0\ScientiaMobilis.Backend.pdb
 D:\2025.01~2025.04\SYST30025 Software Engineering\ScientiaMobilis.Backend\obj\Debug\net8.0\ScientiaMobilis.Backend.genruntimeconfig.cache
 D:\2025.01~2025.04\SYST30025 Software Engineering\ScientiaMobilis.Backend\obj\Debug\net8.0\ref\ScientiaMobilis.Backend.dll
+D:\2025.01~2025.04\SYST30025 Software Engineering\ScientiaMobilis.Backend\obj\Debug\net8.0\ScientiaMobilis.Backend.sourcelink.json
